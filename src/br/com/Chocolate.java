@@ -1,7 +1,9 @@
+package br.com;
+
 public class Chocolate extends Cake {
 
     public Chocolate() {
-        super("Chocolate flavor");
+        super("com.Chocolate flavor");
     }
 
     @Override

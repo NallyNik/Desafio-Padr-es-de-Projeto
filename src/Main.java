@@ -2,7 +2,9 @@
 
 import java.util.Scanner;
 
-public class Facade {  
+import br.com.CakeShop;
+
+public class Main {
     private static String choice;  
     public static void main(String args[]) {  
                

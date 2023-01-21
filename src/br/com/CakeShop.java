@@ -1,3 +1,4 @@
+package br.com;
 //Padrão de Projeto Facade
 
 public class CakeShop {

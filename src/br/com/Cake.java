@@ -1,3 +1,5 @@
+package br.com;
+
 public abstract class Cake {
 	private String description;
     

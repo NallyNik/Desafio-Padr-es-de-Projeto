@@ -1,3 +1,4 @@
+package br.com;
 //Padrão de Projeto Decorator
 
 public abstract class Topping extends Cake {
